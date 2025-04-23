@@ -7,7 +7,7 @@ const axios = require('axios')
 cmd({
   pattern: "quran",
   alias: ["surah"],
-  react: "🇰🇪",
+  react: "🇰🇪,🤣",
   desc: "Get Quran Surah details and explanation.",
   category: "main",
   filename: __filename
