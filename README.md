@@ -30,7 +30,7 @@
       Fork KINGVON MD.
       <br><br>
       <a href="https://github.com/SilverTosh/KINGVON-XMD/fork">
-        <img src="https://img.shields.io/badge/FORK-green" alt="FORK KINGVON XMD" width="150">
+        <img src="https://img.shields.io/badge/FORK-green" alt="FORK KINGVON XMD" width="100">
       </a>
     </td>
     
