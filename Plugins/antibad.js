@@ -25,7 +25,7 @@ cmd({
 
     if (containsBadWord && config.ANTI_BAD_WORD === "true") {
       await conn.sendMessage(from, { 'delete': m.key }, { 'quoted': m });
-      await conn.sendMessage(from, { 'text': "🚫 ⚠️ BAD WORDS NOT ALLOWED ⚠️ 🚫" }, { 'quoted': m });
+      await conn.sendMessage(from, { 'text': "🚫 ⚠️ BAD WORDS NOT ALLOWED MOTHERF*****⚠️ 🚫" }, { 'quoted': m });
     }
   } catch (error) {
     console.error(error);
