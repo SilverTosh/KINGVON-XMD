@@ -48,4 +48,5 @@
 [![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb5tbcZEKyZEHbicrV1y)
 </div>
 
+<div align="center">
 ### 𝐖𝐄 𝐅𝐑𝐎𝐌 64𝒕𝒉 𝐎-𝐁𝐋𝐎𝐂𝐊
