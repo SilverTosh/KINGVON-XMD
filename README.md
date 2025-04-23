@@ -30,3 +30,19 @@
         <img src="https://img.shields.io/badge/FORK-green" alt="FORK KINGVON XMD" width="150">
       </a>
     </td>
+
+***
+
+<p align="center">
+  <a href="https://github.com/SilverTosh"><img title="Developer" src="https://img.shields.io/badge/Author-casey%20web-green.svg?style=for-the-badge&logo=github" /></a>
+</p>
+
+<div align="center">
+  
+[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb5tbcZEKyZEHbicrV1y)
+</div>
+
+
+<p align="center">
+  <a href="https://github.com/caseyweb/KINGVON-XMD"><img title="Release" src="https://img.shields.io/badge/Release-v2.0-green.svg?style=for-the-badge&logo=appveyor" /></a>
+</p>
