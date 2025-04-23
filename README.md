@@ -44,5 +44,5 @@
 
 
 <p align="center">
-  <a href="https://github.com/caseyweb/KINGVON-XMD"><img title="Release" src="https://img.shields.io/badge/Release-v2.0-green.svg?style=for-the-badge&logo=appveyor" /></a>
+  <a href="https://github.com/caseyweb/KINGVON-XMD"><img title="Release" src="https://img.shields.io/badge/Release-v1.0.0-green.svg?style=for-the-badge&logo=appveyor" /></a>
 </p>
