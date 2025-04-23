@@ -31,6 +31,9 @@
       </a>
     </td>
 
+### 1. STAR THIS REPO
+[![Star on GitHub](https://img.shields.io/badge/⭐%20Star%20on%20GitHub-blue?style=for-the-badge)](https://github.com/SilverTosh/KINGVON-XMD.git)
+
 ***
 
 <p align="center">
