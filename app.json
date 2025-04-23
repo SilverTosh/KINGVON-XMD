@@ -1,6 +1,6 @@
 {
   "name": "KINGVON MD",
-  "description": "Javascript WhatsApp bot made by 𝐌𝐑 PKDRILLER",
+  "description": "Javascript WhatsApp bot made by VON",
   "logo": "https://i.ibb.co/G42RDJdB/kingvon-xmd.jpg",
   "keywords": ["KINGVON MD"],
   "success_url": "/",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "KINGVON MDXMD"
+      "value": "KINGVON XMD"
     }, 
       
     "PREFIX": {
