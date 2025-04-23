@@ -34,7 +34,7 @@
 ***
 
 <p align="center">
-  <a href="https://github.com/SilverTosh"><img title="Developer" src="https://img.shields.io/badge/Author-casey%20web-green.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/SilverTosh"><img title="Developer" src="https://img.shields.io/badge/Author-KINGVON%20+254720326316-green.svg?style=for-the-badge&logo=github" /></a>
 </p>
 
 <div align="center">
