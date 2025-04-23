@@ -2,7 +2,7 @@
 {
     "bot-name": "KINGVON MD",
     "description": "Whiskey Sockets Baileys Whatsapp bot By Mr HansTz",
-    "logo": "https://i.imgur.com/jsJSfta.jpeg",
+    "logo": "https://imgur.com/a/jufdfZl",
     "keywords": ["bot"],
     "documentation-link": "https://hanstz-site-vortex-xmd.onrender.com/pair",
     "owner-verification": "nyamanyapolycarp75@gmail.com",
@@ -58,13 +58,13 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "𝐌𝐫 Hans"
+      "value": "KINGVON"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "255760774888"
+      "value": "254720326316"
 
     }, 
 
