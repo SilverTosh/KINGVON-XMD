@@ -27,7 +27,7 @@ cmd({
     }
 
     // Fetch latest version data from GitHub
-    const rawVersionUrl = 'https://raw.githubusercontent.com/pkdriller/KINGVON MD/main/data/version.json';
+    const rawVersionUrl = 'https://raw.githubusercontent.com/SilverTosh/KINGVON MD/main/data/version.json';
     let latestVersion = 'Unknown';
     let latestChangelog = 'No changelog available.';
     try {
@@ -73,7 +73,7 @@ Use *.update* to update.`;
 
     // Send the status message with an image
     await conn.sendMessage(from, {
-      image: { url: 'https://files.catbox.moe/tsjtpi.jpeg' },
+      image: { url: 'https://files.catbox.moe/mtvyj5.jpg' },
       caption: statusMessage,
       contextInfo: {
         mentionedJid: [m.sender],
@@ -81,7 +81,7 @@ Use *.update* to update.`;
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
           newsletterJid: '120363288304618280@newsletter',
-          newsletterName: 'KINGVON MDXMD',
+          newsletterName: 'KINGVON MD',
           serverMessageId: 143
         }
       }
