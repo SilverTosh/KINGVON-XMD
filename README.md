@@ -24,7 +24,7 @@
   <a href="https://whatsapp.com/channel/0029Vb5tbcZEKyZEHbicrV1y"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
 <td align="center">
       <b>FORK</b><br>
-      Fork the repository to customize and use the bot for your needs.
+      Fork KINGVON MD.
       <br><br>
       <a href="https://github.com/SilverTosh/KINGVON-XMD/fork">
         <img src="https://img.shields.io/badge/FORK-green" alt="FORK KINGVON XMD" width="150">
