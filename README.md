@@ -26,11 +26,11 @@
     
   
 <td align="center">
-      <b>FORK</b><br>
+      <b>FORK ME</b><br>
       Fork KINGVON MD.
       <br><br>
       <a href="https://github.com/SilverTosh/KINGVON-XMD/fork">
-        <img src="https://img.shields.io/badge/FORK-green" alt="FORK KINGVON XMD" width="100">
+        <img src="https://img.shields.io/badge/FORK-green" alt="FORK KINGVON XMD" width="200">
       </a>
     </td>
     
