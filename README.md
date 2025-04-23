@@ -13,3 +13,12 @@
     <img src="https://files.catbox.moe/mtvyj5.jpg" alt="Watch KINGVON-XMD Video" width="800" />
   </a>
 </p>
+
+##
+
+
+
+<p> <b>Connect With me:</b></p>
+<p>
+<a href="https://wa.me/254720326316"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
+  <a href="https://whatsapp.com/channel/0029Vb5tbcZEKyZEHbicrV1y"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
