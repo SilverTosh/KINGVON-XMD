@@ -29,8 +29,8 @@
       <b>FORK ME</b><br>
       Fork KINGVON MD.
       <br><br>
-      <a href="https://github.com/SilverTosh/KINGVON-XMD/forkme">
-        <img src="https://img.shields.io/badge/FORK-green" alt="FORK KINGVON XMD" width="200">
+      <a href="https://github.com/SilverTosh/KINGVON-XMD/fork">
+        <img src="https://img.shields.io/badge/FORK ME-green" alt="FORK KINGVON XMD" width="200">
       </a>
     </td>
     
