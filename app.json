@@ -1,7 +1,7 @@
 {
   "name": "KINGVON MD",
-  "description": "Javascript WhatsApp bot made by VON",
-  "logo": "https://i.ibb.co/G42RDJdB/kingvon-xmd.jpg",
+  "description": "Javascript WhatsApp bot made by KINGVON",
+  "logo": "https://files.catbox.moe/mtvyj5.jpg",
   "keywords": ["KINGVON MD"],
   "success_url": "/",
 
@@ -93,7 +93,7 @@
     "ALIVE_IMG": {
       "description": "put here the bot Menu url if you don't have you can use this public url.",
       "required": true,
-      "value": "https://i.ibb.co/G42RDJdB/kingvon-xmd.jpg" 
+      "value": "https://files.catbox.moe/mtvyj5.jpg" 
       },
 
     "DELETE_LINK": {
