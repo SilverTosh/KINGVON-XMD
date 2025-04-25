@@ -33,7 +33,24 @@
         <img src="https://img.shields.io/badge/FORK ME🇰🇪-green" alt="FORK KINGVON XMD" width="200">
       </a>
     </td>
-    
+    <td align="center">
+      <b>SESSION</b><br>
+      Link your session ID to start using the bot. Follow steps if issues arise.
+      <br><br>
+      <a href="https://keith-session.onrender.com/pair">
+        <img src="https://img.shields.io/badge/Pair%20session%20code-white" alt="𝐏𝐚𝐢𝐫%20𝐬𝐞𝐬𝐬𝐢𝐨𝐧%20𝐜𝐨𝐝𝐞" width="300">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>KEITH APIs</b><br>
+      Visit our website for Keith APIs and integrations though still updating.
+      <br><br>
+      <a href="https://apis-keith.vercel.app/">
+        <img src="https://img.shields.io/badge/Visit%20KEITH%20APIs-blue" alt="Visit KEITH APIs" width="200">
+      </a>
+    </td>
 ### STAR THIS REPO
 [![Star on GitHub](https://img.shields.io/badge/⭐🇰🇪%20Star%20on%20GitHub-red?style=for-the-badge)](https://github.com/SilverTosh/KINGVON-XMD)
 
