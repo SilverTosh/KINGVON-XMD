@@ -44,12 +44,15 @@
   </tr>
   <tr>
     <td align="center">
-      <b>𝐃𝐄𝐏𝐋𝐎𝐘 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔</b><br>
+      <b>DEPLOY</b><br>
+      Deploy the bot to your server or platform of choice using the button below.
       <br><br>
-      <a href="https://v0-new-project-het6vtgt6qz-usgpvu.vercel.app/">
-        <img src="https://img.shields.io/badge/Visit%20𝐊𝐈𝐍𝐆𝐕𝐎𝐍%20𝐌𝐃-" alt="𝐃𝐄𝐏𝐋𝐎𝐘 𝐍𝐎𝐖" width="200">
+      <a href="https://dashboard.heroku.com/new?button-url=https://github.com/keithkeizzah/KEITH-MD&template=https://github.com/keithkeizzah/KEITH-MD.git">
+        <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku">
       </a>
     </td>
+  </tr>
+</table>
     
 ### STAR THIS REPO
 [![Star on GitHub](https://img.shields.io/badge/⭐🇰🇪%20Star%20on%20GitHub-red?style=for-the-badge)](https://github.com/SilverTosh/KINGVON-XMD)
