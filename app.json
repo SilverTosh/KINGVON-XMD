@@ -81,7 +81,19 @@
       "required": true,
       "value": "*STATUS SEEN BY KINGVON MD*"
    
-     }, 
+         }, 
+
+    "OWNER_NAME": {
+      "description": "Type Bot Owner Name.",
+      "required": false,
+      "value": "KINGVON-MD"
+}, 
+
+    "OWNER_NUMBER": {
+      "description": "put the owner number for bot.",
+      "required": false,
+      "value": "254720326316"
+ }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
