@@ -46,7 +46,7 @@
     <td align="center">
       <b>𝐃𝐄𝐏𝐋𝐎𝐘 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔</b><br>
       <br><br>
-      <a href=".... ">
+      <a href="https://v0-new-project-het6vtgt6qz-usgpvu.vercel.app/">
         <img src="https://img.shields.io/badge/Visit%20𝐊𝐈𝐍𝐆𝐕𝐎𝐍%20𝐌𝐃-" alt="𝐃𝐄𝐏𝐋𝐎𝐘 𝐍𝐎𝐖" width="200">
       </a>
     </td>
