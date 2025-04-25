@@ -47,7 +47,7 @@
       <b>DEPLOY</b><br>
       Deploy the bot to your server or platform of choice using the button below.
       <br><br>
-      <a href="https://dashboard.heroku.com/new?button-url=https://github.com/keithkeizzah/KEITH-MD&template=https://github.com/keithkeizzah/KEITH-MD.git">
+      <a href="https://dashboard.heroku.com/new?button-url=https://github.com/SilverTosh/KINGVON-XMD&template=https://github.com/SilverTosh/KINGVON-XMD.git">
         <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku">
       </a>
     </td>
