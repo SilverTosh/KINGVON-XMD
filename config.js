@@ -13,21 +13,21 @@ AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 // make true if you want auto reply on status 
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
 // make true if you want auto reply on status 
-AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS*",
+AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*STATUS SEEN*",
 // set the auto reply massage on status reply  
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "KINGVON MD-MD",
+BOT_NAME: process.env.BOT_NAME || "KINGVON MD",
 // add bot namw here for menu
 STICKER_NAME: process.env.STICKER_NAME || "KINGVON MD",
 // type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
-CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍",
+CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,🚀,🚀,😂",
 // chose custom react emojis by yourself 
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "254720326316",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "",
 // add your bot owner number
 OWNER_NAME: process.env.OWNER_NAME || "KINGVON",
 // add bot owner name
