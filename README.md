@@ -35,20 +35,19 @@
     </td>
     <td align="center">
       <b>SESSION</b><br>
-      Link your session ID to start using the bot. Follow steps if issues arise.
+      Link your session ID to start using the bot..
       <br><br>
-      <a href="https://keith-session.onrender.com/pair">
-        <img src="https://img.shields.io/badge/Pair%20session%20code-white" alt="𝐏𝐚𝐢𝐫%20𝐬𝐞𝐬𝐬𝐢𝐨𝐧%20𝐜𝐨𝐝𝐞" width="300">
+      <a href="https://v0-new-project-het6vtgt6qz-usgpvu.vercel.app/">
+        <img src="https://img.shields.io/badge/𝐏𝐀𝐈𝐑%20𝐒𝐄𝐒𝐒𝐈𝐎𝐍%20code-white" alt="𝐏𝐀𝐈𝐑%20𝐒𝐄𝐒𝐒𝐈𝐎𝐍%20𝐂𝐎𝐃𝐄" width="200">
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <b>KEITH APIs</b><br>
-      Visit our website for Keith APIs and integrations though still updating.
+      <b>𝐃𝐄𝐏𝐋𝐎𝐘 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔</b><br>
       <br><br>
-      <a href="https://apis-keith.vercel.app/">
-        <img src="https://img.shields.io/badge/Visit%20KEITH%20APIs-blue" alt="Visit KEITH APIs" width="200">
+      <a href=".... ">
+        <img src="https://img.shields.io/badge/Visit%20𝐊𝐈𝐍𝐆𝐕𝐎𝐍%20𝐌𝐃-" alt="𝐃𝐄𝐏𝐋𝐎𝐘 𝐍𝐎𝐖" width="200">
       </a>
     </td>
     
