@@ -79,14 +79,14 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SᴇᴇN YᴏᴜʀE SᴛᴀᴛᴜS JᴜsT NᴏW KINGVON MD 𓅓*"
+      "value": "*STATUS SEEN BY KINGVON MD*"
    
      }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "KINGVON MD-X𝐌𝐃"
+      "value": "KINGVON MD"
 
       }, 
     
@@ -142,7 +142,7 @@
     "CUSTOM_REACT_EMOJIS": {
       "description": "put here custom react react emojis.",
       "required": false,
-      "value": "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍"
+      "value": "💝,💖,💗,🚀,🇰🇪,😂"
     }, 
     
     "ANTI_DEL_PATH": {
