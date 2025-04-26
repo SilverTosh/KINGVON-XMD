@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "KINGVON XMD"
+      "value": "KINGVON MD"
     }, 
       
     "PREFIX": {
@@ -86,7 +86,7 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "KINGVON-MD"
+      "value": "KINGVON"
 }, 
 
     "OWNER_NUMBER": {
