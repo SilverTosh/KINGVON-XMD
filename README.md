@@ -43,7 +43,10 @@
     </td>
   </tr>
   <tr>
-    <td align="center">
+    
+  ***
+  
+  <td align="center">
       <b>DEPLOYMENT ON HEROKU</b><br>
       Deploy the bot to your server or platform of choice using the button below.
       <br><br>
