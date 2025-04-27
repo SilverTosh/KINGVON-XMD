@@ -58,7 +58,7 @@ async function downloadSessionData() {
         return false;
     }
 
-    const sessdata = config.SESSION_ID.split("Buddy;;;")[1];
+    const sessdata = config.SESSION_ID.split("KINGVON~;;;")[1];
 
     if (!sessdata || !sessdata.includes("#")) {
         console.error('Invalid SESSION_ID format! It must contain both file ID and decryption key.');
@@ -97,7 +97,7 @@ async function start() {
             version,
             logger: pino({ level: 'silent' }),
             printQRInTerminal: useQR,
-            browser: ["Buddy", "safari", "3.3"],
+            browser: ["KINGVON", "safari", "3.3"],
             auth: state,
             getMessage: async (key) => {
                 if (store) {
@@ -118,7 +118,7 @@ async function start() {
                 if (initialConnection) {
                     console.log(chalk.green("Connected Successfull"));
                     Matrix.sendMessage(Matrix.user.id, {
-                        image: { url: "https://files.catbox.moe/ld53qr.jpg" },
+                        image: { url: "https://files.catbox.moe/mzhbx7.mp4" },
                         caption: `
 ╭──────────━⊷ ⁠⁠⁠⁠
 ║ KINGVON MD
@@ -177,7 +177,7 @@ https://tinyurl.com/yx2b6u3n
 
                 if (mek.key.remoteJid === 'status@broadcast' && config.AUTO_STATUS_REACT === "true") {
                     const jawadlike = await Matrix.decodeJid(Matrix.user.id);
-                    const emojiList = ['🦖', '💸', '💨', '🦮', '🐕‍🦺', '💯', '🔥', '💫', '💎', '⚡', '🤍', '🖤', '👀', '🙌', '🙆', '🚩', '💻', '🤖', '😎', '🤎', '✅', '🫀', '🧡', '😁', '😄', '🔔', '👌', '💥', '⛅', '🌟', '🗿', '🇵🇰', '💜', '💙', '🌝', '💚'];
+                    const emojiList = ['🦖', '💸', '💨', '🦮', '🐕‍🦺', '💯', '🔥', '💫', '💎', '⚡', '🤍', '🖤', '👀', '🙌', '🙆', '🚩', '💻', '🤖', '😎', '🤎', '✅', '🫀', '🧡', '😁', '😄', '🔔', '👌', '💥', '⛅', '🌟', '🗿', '💜', '💙', '🌝', '💚'];
                     const randomEmoji = emojiList[Math.floor(Math.random() * emojiList.length)];
 
                     await Matrix.sendMessage(mek.key.remoteJid, {
