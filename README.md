@@ -44,7 +44,7 @@
       Link your session ID to start using the bot..
       <br><br>
       <a href="https://von-pxei.onrender.com">
-        <img src="https://img.shields.io/badge/𝐏𝐀𝐈𝐑%20𝐒𝐄𝐒𝐒𝐈𝐎𝐍%20code-white" alt="𝐏𝐀𝐈𝐑%20𝐒𝐄𝐒𝐒𝐈𝐎𝐍%20𝐂𝐎𝐃𝐄1" width="200">
+        <img src="https://img.shields.io/badge/𝐏𝐀𝐈𝐑%20𝐒𝐄𝐒𝐒𝐈𝐎𝐍%20code%20Op¹-purple" alt="𝐏𝐀𝐈𝐑%20𝐒𝐄𝐒𝐒𝐈𝐎𝐍%20𝐂𝐎𝐃𝐄1" width="200">
               </a>
     </td>
     </tr>
@@ -53,7 +53,7 @@
       <b></b><br>
       Link your session ID to start using the bot..
       <br><br>
-      <a href="https://von-pxei.onrender.com">
+      <a href="">
         <img src="https://img.shields.io/badge/𝐏𝐀𝐈𝐑%20𝐒𝐄𝐒𝐒𝐈𝐎𝐍%20code%20Op²-green" alt="𝐏𝐀𝐈𝐑%20𝐒𝐄𝐒𝐒𝐈𝐎𝐍%20𝐂𝐎𝐃𝐄1" width="200">
               </a>
     </td>
