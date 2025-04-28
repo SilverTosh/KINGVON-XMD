@@ -50,7 +50,7 @@
     </tr>
   <tr>
     <td align="center">
-      <b>SESSION</b><br>
+      <b>.</b><br>
       Link your session ID to start using the bot..
       <br><br>
       <a href="https://von-pxei.onrender.com">
