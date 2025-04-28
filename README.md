@@ -36,6 +36,7 @@
     
   ***
     
+  [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
   <td align="center">
       <b>SESSION</b><br>
       Link your session ID to start using the bot..
@@ -46,6 +47,7 @@
     </td>
   </tr>
   <tr>
+[![-----------------------------------------------------]
     
   ***
   
