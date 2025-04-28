@@ -47,6 +47,8 @@
         <img src="https://img.shields.io/badge/𝐏𝐀𝐈𝐑%20𝐒𝐄𝐒𝐒𝐈𝐎𝐍%20code-white" alt="𝐏𝐀𝐈𝐑%20𝐒𝐄𝐒𝐒𝐈𝐎𝐍%20𝐂𝐎𝐃𝐄1" width="200">
       </a>
     </td>
+    </tr>
+  <tr>
   
 [![-----------------------------------------------------]
 (https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
