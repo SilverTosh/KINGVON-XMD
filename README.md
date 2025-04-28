@@ -1,28 +1,20 @@
-<h1 align="center">
-  <font color="red">K</font>
-  <font color="orange">I</font>
-  <font color="yellow">N</font>
-  <font color="green">G</font>
-  <font color="blue">V</font>
-  <font color="indigo">O</font>
-  <font color="violet">N</font>
-  <font color="gray">-</font>
-  <font color="red">X</font>
-  <font color="orange">M</font>
-  <font color="yellow">D</font>
-  <font color="green"> </font>
-  <font color="blue">C</font>
-  <font color="indigo">O</font>
-  <font color="violet">M</font>
-  <font color="gray">I</font>
-  <font color="red">N</font>
-  <font color="orange">G</font>
-  <font color="yellow"> </font>
-  <font color="green">S</font>
-  <font color="blue">O</font>
-  <font color="indigo">O</font>
-  <font color="violet">N</font>
-</h1>
+<p align="center">
+  <svg width="100%" height="100">
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial, sans-serif" fill="url(#rainbow)">
+      KINGVON-XMD COMING SOON
+    </text>
+    <defs>
+      <linearGradient id="rainbow" gradientTransform="rotate(90)">
+        <stop offset="0%" stop-color="red" />
+        <stop offset="20%" stop-color="orange" />
+        <stop offset="40%" stop-color="yellow" />
+        <stop offset="60%" stop-color="green" />
+        <stop offset="80%" stop-color="blue" />
+        <stop offset="100%" stop-color="purple" />
+      </linearGradient>
+    </defs>
+  </svg>
+</p>
 
 <h1 align="center">I CRIED REAL TEARS WHEN THEY LOCKED UP 𝕐𝕆𝕌ℕ𝔾𝕋ℍ𝕌𝔾 I PRAY FOR BETTER DAYS BUT I SWEAR THEY NEVER COME, MY BROTHER ON THE GRAVE RIP🕊️🕊️ 🅺🅸🅽🅶🆅🅾🅽... WE SLIDING EVERYDAY UNTIL WE PUT THEM N****S ON THE BLUNT 🔫</h1>
 
