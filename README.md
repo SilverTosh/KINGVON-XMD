@@ -50,7 +50,7 @@
     </tr>
   <tr>
 
-**
+***
     <td align="center">
       <b>SESSION</b><br>
       Link your session ID to start using the bot..
