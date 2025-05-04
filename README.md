@@ -46,7 +46,7 @@
       <b>SESSION</b><br>
       Link your session ID to start using the bot..option 1
       <br><br>
-      <a href="⭕⭕⭕not yet done ⭕⭕⭕">
+      <a href="https://von-sess-1.onrender.com">
         <img src="https://img.shields.io/badge/𝐏𝐀𝐈𝐑%20𝐒𝐄𝐒𝐒𝐈𝐎𝐍%20code%20Op¹-purple" alt="𝐏𝐀𝐈𝐑%20𝐒𝐄𝐒𝐒𝐈𝐎𝐍%20𝐂𝐎𝐃𝐄1" width="400">
               </a>
     </td>
