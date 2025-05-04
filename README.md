@@ -1,4 +1,4 @@
-<p align="center">
+:<p align="center">
   <img src="https://img.shields.io/badge/KINGVON--XMD-COMING--SOON-gradient?style=for-the-badge&logoColor=white">
 </p>
 
@@ -46,7 +46,7 @@
       <b>SESSION</b><br>
       Link your session ID to start using the bot..option 1
       <br><br>
-      <a href="https://von-pxei.onrender.com">
+      <a href="⭕⭕⭕not yet done ⭕⭕⭕">
         <img src="https://img.shields.io/badge/𝐏𝐀𝐈𝐑%20𝐒𝐄𝐒𝐒𝐈𝐎𝐍%20code%20Op¹-purple" alt="𝐏𝐀𝐈𝐑%20𝐒𝐄𝐒𝐒𝐈𝐎𝐍%20𝐂𝐎𝐃𝐄1" width="400">
               </a>
     </td>
