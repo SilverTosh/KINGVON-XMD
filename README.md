@@ -72,7 +72,7 @@
       <b>DEPLOYMENT ON HEROKU</b><br>
       Deploy the bot to your server or platform of choice using the button below.
       <br><br>
-      <a href="https://dashboard.heroku.com/new?button-url=https://github.com/SilverTosh/KINGVON-XMD&template=https://github.com/SilverTosh/KINGVON-XMD.git">
+      <a href="https://dashboard.heroku.com/new?button-url=https://xmd-verification.onrender.com">
         <img src="https://www.herokucdn.com/deploy/button.svg" alt="DEPLOY ON HEROKU">
       </a>
     </td>
